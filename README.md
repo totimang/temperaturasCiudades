@@ -11,4 +11,4 @@ poder informar por pantalla cual fue la ciudad con la temperatura más baja y cu
 temperatura más alta (dando a conocer al mismo tiempo la cantidad de grados).
 
 Ejercicio de la academia TodoCode
-<a href="https://www.youtube.com/watch?v=b-XbBZFS35M">Video del ejercicio</a>
+<a href="https://www.youtube.com/watch?v=b-XbBZFS35M" target="_blank">Video del ejercicio</a>
